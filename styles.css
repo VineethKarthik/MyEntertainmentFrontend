@@ -31,7 +31,7 @@ header { background: #141414; padding: 1rem 2rem; }
 }
 
 .movie-card, .tv-card {
-  aspect-ratio: 16/9;
+  aspect-ratio: 9/16;
   min-width: 320px;
   margin-right: 15px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.15);
